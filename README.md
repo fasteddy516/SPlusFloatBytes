@@ -1,0 +1,2 @@
+# SPlusFloatBytes
+This Simpl# library provides a converter from a SIMPL+ integer value (0 to 100, representing 0.00 to 1.00) to a SIMPL+ string value containing the bytes that correspond to the 32-bit floating point representation of the provided number.
